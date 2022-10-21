@@ -31,5 +31,5 @@ gltfLoader.load('./src/assets/Mars.glb', (gltfScene) => {
 })
 
 export default function App() {
-  return ()
+  return {}
 }
